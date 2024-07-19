@@ -12,5 +12,5 @@ console.log(codigoAcceso);*/
 //const codigoAcceso=boleto==='vip'? 'vip-412-634':'Regular-432-753'; 
 //console.log(codigoAcceso);
 
-boleto==='vip'? console.log('Tu boleto es vip papulince'): console.log('Tu boleto es regular papulince');
+boleto==='vip'? console.log('Tu boleto es vip'): console.log('Tu boleto es regular ');
 console.log (boleto);

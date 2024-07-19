@@ -2,7 +2,7 @@
 es un metodo de los arreglos que podemos usar para recorrer los elementos
 */
 /*
-const compas=['caperry','maistro','benimaru'];
+const compas=['Astrid','Alondra','Flor'];
 compas.forEach((amigo,index)=>{
 console.log(`el amigo#${index} es ${amigo}`)});
 */
@@ -14,7 +14,7 @@ nos permite recorrer las propiedades de un objeto.
 const persona={
     nombre: 'Carlos',
     edad: 25,
-    correo: 'carlospapu@gmail.com',
+    correo: 'carlos@gmail.com',
 };
 for  (propiedad in persona){
     persona[propiedad]= '';

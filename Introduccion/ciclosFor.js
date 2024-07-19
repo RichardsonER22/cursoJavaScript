@@ -1,4 +1,4 @@
-const nombres=['caperry','maistro','banimaru','tozi','berijon','donlalo','truku'];
+const nombres=['Luis','Ricardo','Omar','Pedro'];
 //nombres.forEach((nombres)=>{
  //   console.log(nombres);
 

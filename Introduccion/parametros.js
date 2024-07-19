@@ -2,9 +2,9 @@
     console.log(`hola ${nombre}`);
 }
 
-saludo('caperry');
-saludo('benimaru');
-saludo('maistrolonganiza');
+saludo('Pepe');
+saludo('Roberto');
+saludo('Cristian');
 saludo();
 */
 

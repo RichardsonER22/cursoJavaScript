@@ -20,7 +20,7 @@ class Moderador extends Usuario{
         if(this.permiso.includes('borrar')){
             console.log(`el post con el ${id} ha sido eliminado`);
         }else{
-            console.log('no tienes los permisos papulince')
+            console.log('no tienes los permisos')
         }
     }
 }
@@ -29,7 +29,7 @@ const usuario=new Usuario('carlos','123');
 //console.log(usuario.permiso)
 
 
-const moderador= new Moderador('caperry', 'gelatinoso',['borrar','editar'])
+const moderador= new Moderador('Jose', 'Luis',['borrar','editar'])
 console.log(moderador.obtenerPosts());
 console.log(moderador,);
 moderador.borrarPost(3);

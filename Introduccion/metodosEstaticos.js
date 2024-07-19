@@ -10,7 +10,7 @@ class Usuario{
     static registrados=1000;
 }
 
-//const usuario=new Usuario('Caperry','caperrygelatinoso@gmail.com');
+//const usuario=new Usuario('Mierya','Mireya@gmail.com');
 //(usuario.borrarUsuario(1));
 Usuario.borrarUsuario(1);
 console.log(Usuario.registrados);

@@ -2,13 +2,13 @@
 obtienes el primer index de un elemento
 si no hay elementos nos retorna -1*/
 
-const nombres=['caperry','maistrolonganiza','benimaru','donlalo','berijon','tozi'];
-//console.log(nombres.indexOf('tozi'));
+const nombres=['Fabian','Maria','Nely','Odalys'];
+//console.log(nombres.indexOf('Nely'));
 
 /*.lastIndexof()
 obtenemos el ultimo index de un elemento*/
 
-//console.log(nombres.lastIndexOf('caperry'))
+//console.log(nombres.lastIndexOf('Odalys'))
 
 //.forEach() nos permite ejecutar una funcion por cada elemento
 
@@ -52,7 +52,7 @@ console.log(nombre4letras);
 nos permite saber si el arreglo tiene un elemento especifico
 */
 
-//console.log(nombres.includes('caperry'))
+//console.log(nombres.includes('Juan'))
 
 /*.every()
 nos permite ejecutar un condicional sobre cada elemento
@@ -81,4 +81,4 @@ const nombresValidos=nombres.some((nombres)=>{
     }
 
 })
-console.log('El arreglo es invalido papulince? '+nombresValidos);
+console.log('El arreglo es invalido ? '+nombresValidos);

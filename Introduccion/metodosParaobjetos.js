@@ -1,9 +1,9 @@
 const usuario={
-    nombre:'Caperry',
+    nombre:'Pablo',
     edad: 24,
-    amigos: ['maistro','benimaru','crujoronaldo'],
+    amigos: ['Omar','Fernanda','Jorge'],
     saludo:()=>{
-        console.log('hola papu');
+        console.log('hola ');
     }
 };
 //metodos propios 

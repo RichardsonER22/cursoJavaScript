@@ -1,21 +1,21 @@
-const personaArreglo=['Benimaru',24,true,true];
+const personaArreglo=['Eduardo',24,true,true];
 
 const persona={
-    Nombre: 'Benimaru',
+    Nombre: 'Eduardo',
     Edad: 24,
-    correo: 'benimaru14@gmail.com',
+    correo: 'Eduardo14@gmail.com',
     suscripciones:{
         web: true,
         correo: true,
     },
     coloresFavoritos:['Negro','Azul'],
     saludo:function(){
-        alert('HOlA PAPULINCE');
+        alert('HOlA ');
     },
 
 };
 
-persona.pais='Loreto'
+persona.pais='Mexico'
 console.log(persona)
 persona.saludo();
 //console.log(persona.Nombre);

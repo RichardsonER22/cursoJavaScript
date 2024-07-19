@@ -9,21 +9,21 @@
 //};
 
 //if(usuario.edad>=18){
-//    console.log('Animo papulince puedes entrar sin pedos xd');
+//    console.log('Puedes entrar');
 //}
 //else{
-//    console.log( 'no puedes entrar papulince eres menor de edad');
+//    console.log( 'no puedes entrar eres menor de edad');
 //}
 
 //ejemplo 2 combinando operadores
 
 
 //if(usuario.ticket && usuario.edad>=18){
- //   console.log('animo papu eres mayor y tienes ticket');
+ //   console.log('eres mayor y tienes ticket');
 //}
 
 //else{
-//    console.log('nel papu eres menor o no tienes ticket');
+//    console.log('eres menor o no tienes ticket');
 //}
 
 //Ejemplo 3 anidando condicionales
@@ -57,12 +57,12 @@ if(usuario.pais==='Mexico'){
     console.log('El usuario es mexicano');
 }
 else if(usuario.pais==='peru'){
-    console.log('El usuario es paruano xd');
+    console.log('El usuario es peruano');
 }
-else if(usuario.pais==='loreto'){
-    console.log('el usuario es de loretillo');
+else if(usuario.pais==='colombia'){
+    console.log('el usuario es de colombiano');
 }
 else{
-    console.log('el usuario es de otro planeta xd');
+    console.log('el usuario es de otro pais');
 }
   

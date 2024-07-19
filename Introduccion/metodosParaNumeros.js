@@ -16,14 +16,14 @@ console.log(numero.toFixed(20));
 
 //.parseInt() intenta transfromar un valor a un entero
 
-//const numero1= parseInt(prompt('Escribe un numero papu'));
-//const numero2= parseInt(prompt('Escribe un numero papu'));
+//const numero1= parseInt(prompt('Escribe un numero '));
+//const numero2= parseInt(prompt('Escribe un numero '));
 //console.log(numero1+numero2);
 
 //parseFloat() intenta transformar un numero con decimales
 
-/*const numero1= parseFloat(prompt('Escribe un numero papu'));
-const numero2= parseFloat(prompt('Escribe un numero papu'));
+/*const numero1= parseFloat(prompt('Escribe un numero'));
+const numero2= parseFloat(prompt('Escribe un numero'));
 console.log(numero1+numero2);
 */
 

@@ -5,7 +5,7 @@ if(exito){
     resolve('La operacion tuvo exito');
 
 } else{
-    reject('Lo siento papu, no se encontro Lana rhoades vs mia khalifa');
+    reject('Fallo en el sistema');
 }
 
     },4000);

@@ -1,7 +1,7 @@
 //forma #1
 
 /*function saludo(){
-    console.log('hola ser infernal');
+    console.log('hola ');
 }
 
 saludo();
@@ -11,7 +11,7 @@ saludo();
 
 /*
 const saludo=function(){
-    console.log('hola desde el inframundo');
+    console.log('hola ');
 }
 saludo();
 */
@@ -19,6 +19,6 @@ saludo();
 //forma 3
 
 /*
-const saludo=()=> console.log('hola papulince');
+const saludo=()=> console.log('hola ');
 saludo();
 */

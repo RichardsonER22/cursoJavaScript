@@ -45,7 +45,7 @@ console.log(diaEliminado);
 console.log(dias[0]);
 
 //unshift agrega un nuevo elemento y empuja a los primeros
-dias.unshift('Caperry');
+dias.unshift('Viernes');
 console.log(dias);
 
 /*.splice()
@@ -55,7 +55,7 @@ nos permite insertar elementos a un arreglo donde le especifiquemos
 - resto de parametros- los elementos a insertar
 */
 
-const amigos=['caperry', 'maistrolonganiza', 'benimarudeloscojones'];
+const amigos=['Blanca', 'Erick', 'Litzy'];
 //amigos.splice(1,2,'Rafael', 'Roberto');
 console.log(amigos);
 

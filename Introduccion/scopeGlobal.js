@@ -10,7 +10,7 @@ console.log(nombre);
 const saludo =()=>{
     console.log('hola '+nombre);
 }
-nombre='Caperry';
+nombre='Juan';
 console.log('El nuevo nombres es: '+nombre);
 
 saludo();

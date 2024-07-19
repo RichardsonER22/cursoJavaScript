@@ -20,5 +20,5 @@ console.log('Nuevo usuario registrado')
     }
 }
 
-const usuario=new Usuario ('caperry', 'gelatinoso');
+const usuario=new Usuario ('pepe', 'chuy');
 console.log(usuario.obtenerNombreCompleto());

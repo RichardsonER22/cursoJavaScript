@@ -33,7 +33,7 @@ const registrarUsuario=(nombre, correo,...datosAdicionales)=>{
 console.log(nombre, correo,datosAdicionales);
 }
 
-registrarUsuario('caperry', 'caperrygelatinoso@gmail.com',28, 'Loreto');
+registrarUsuario('Ricardo', 'ricardo@gmail.com',28, 'Aguascalientes');
 */
 
 /*
@@ -41,15 +41,15 @@ destructuracion de objetos
 nos permite obtener elementos o propiedades de un arreglo u objeto y guardarlos en una variable
 */
 
-const amigos=['Caperry','maistro','benimaru'];
+const amigos=['Miguel','Jesus','Bruno'];
 
 const[PrimerAmigo,segundoAmigo,TercerAmigo]=amigos
 console.log(TercerAmigo);
 
 const persona={
-    nombre: 'Caperry',
+    nombre: 'Miguel',
     edad: 24,
-    pais: 'Mongolia'
+    pais: 'Mexico'
 }
 const {nombre, pais}=persona;
 
