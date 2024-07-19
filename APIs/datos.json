@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "nombre": "Caperry",
+    "suscripor_activo": true,
+
+    "posts":[
+        {
+            "id":1,
+            "titulo": "titulo del primer post",
+            "texto": "texto del primer post"
+        },
+        {
+            "id":2,
+            "titulo": "titulo del segundo post",
+            "texto": "texto del segundo post"
+        }
+
+    ]
+}
